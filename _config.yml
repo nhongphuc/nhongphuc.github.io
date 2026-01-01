@@ -26,8 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Phuc Nguyen"
   pronouns         : "he/him"  
-  bio              : "I’m a data scientist and machine learning researcher with a strong foundation in theoretical physics. I build data-driven solutions that combine rigorous probabilistic modeling with practical machine learning systems, and I enjoy bridging deep theory with real-world impact. My work spans statistical mechanics–inspired inference, scalable model design, and open-source software development. I’m currently exploring opportunities where I can contribute to **advanced analytics, robust AI/ML systems, and scientific innovation**. Learn more about my research, projects, and publications below — or get in touch to connect."
-"
+  bio              : "I’m a data scientist and machine learning researcher with a strong foundation in theoretical physics."
   location         : "Boston, MA"
   employer         : "Beth Israel Deaconess Medical Center"
   uri              : # URL
