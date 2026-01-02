@@ -1,11 +1,13 @@
 ---
 title: "Which Similarity-Sensitive Entropy (S-entropy)?"
+authors: Phuc Nguyen, Josiah Couch, Rahul Bansal, Alexandra Morgan, Chris Tam, Miao Li, Rima Arnaout, Ramy Arnaout
 collection: publications
 category: manuscripts
 permalink: /publication/vendi_score
 excerpt: 'This paper compares the Vendi score with the Leinster-Cobbold-Reeve similarity-sensitive diversity indices.'
 date: 2025-11-10
-#venue: ''
+type: preprint
+venue: arXiv
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2511.03849'
 #bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
