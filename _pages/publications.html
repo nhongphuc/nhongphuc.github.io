@@ -7,9 +7,9 @@ author_profile: true
 
 {% assign pubs = site.publications %}
 
-{% assign journal_pubs = pubs | where: "type", "journal" %}
-{% assign conference_pubs = pubs | where: "type", "conference" %}
-{% assign preprints = pubs | where: "type", "preprint" %}
+{% assign journal_pubs = pubs | where: "type", "manuscripts" %}
+{% assign conference_pubs = pubs | where: "type", "conferences" %}
+{% assign preprints = pubs | where: "type", "preprints" %}
 
 {% if journal_pubs.size > 0 or conference_pubs.size > 0 %}
 ## Peer-reviewed Publications
