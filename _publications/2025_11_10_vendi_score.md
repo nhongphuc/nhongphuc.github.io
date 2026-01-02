@@ -1,6 +1,6 @@
 ---
 title: "Which Similarity-Sensitive Entropy (S-entropy)?"
-authors: Phuc Nguyen, Josiah Couch, Rahul Bansal, Alexandra Morgan, Chris Tam, Miao Li, Rima Arnaout, Ramy Arnaout
+authors: "Phuc Nguyen, Josiah Couch, Rahul Bansal, Alexandra Morgan, Chris Tam, Miao Li, Rima Arnaout, Ramy Arnaout"
 collection: publications
 category: manuscripts
 permalink: /publication/vendi_score
