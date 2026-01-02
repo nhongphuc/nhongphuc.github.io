@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications and Preprints"
+title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
@@ -12,7 +12,7 @@ author_profile: true
 {% assign preprints = pubs | where: "category", "preprints" %}
 
 {% if journal_pubs.size > 0 or conference_pubs.size > 0 %}
-## Peer-reviewed Publications
+<h2>Peer-reviewed</h2>
 
 {% for post in journal_pubs %}
 {% include archive-single.html %}
@@ -24,7 +24,7 @@ author_profile: true
 {% endif %}
 
 {% if preprints.size > 0 %}
-## Preprints
+<h2>Preprints</h2>
 
 {% for post in preprints %}
 {% include archive-single.html %}
