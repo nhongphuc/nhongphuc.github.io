@@ -1,0 +1,11 @@
+journal:
+  label: "Journal Articles"
+
+preprint:
+  label: "Preprints"
+
+conference:
+  label: "Conference Papers"
+
+workshop:
+  label: "Workshop Papers"
