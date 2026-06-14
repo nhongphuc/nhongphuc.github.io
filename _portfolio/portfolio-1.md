@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "sentropy"
+excerpt: "A python package for computing similarity-sensitive diversity measures"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+I helped develop and maintain this open-source Python package for computing Leinster-Cobbold-Reeve diversity measures ! For more information for how to install, please see https://pypi.org/project/sentropy/.
