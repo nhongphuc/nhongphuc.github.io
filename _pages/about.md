@@ -3,6 +3,7 @@ title: "About"
 permalink: /
 author_profile: true
 ---
+🚧 **Website Under Construction**
 
 I am a data scientist and machine learning researcher with a strong foundation in theoretical physics. My work sits at the intersection of **statistical learning, probabilistic modeling, and scientific computing**, where I focus on building models that are both **mathematically principled and practically effective**.
 
