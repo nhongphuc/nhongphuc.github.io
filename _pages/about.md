@@ -10,11 +10,11 @@ I am a data scientist and machine learning researcher with a strong foundation i
 I was originally trained as a physicist. I started graduate school as a research assistant working on the Lense-Thirring effect (i.e. frame-dragging) of satellites around Earth. Then my interest broadened to various topics in general relativity, high-energy physics (especially the AdS/CFT correspondence), as well as condensed matter physics and (quantum) information science. Over time, I transitioned toward data science and machine learning, where I now try to apply ideas from physics and information theory to real-world problems involving complex, high-dimensional data.
 
 My recent technical interests include:  
-- Applications of statistical physics to ML/AI (e.g. MaxEnt models, energy-based models),  
+- Applications of statistical physics to ML/AI, especially to probabilistic modelling (e.g. MaxEnt models, energy-based models),  
 - Applications of information theory to define diversity measures (e.g. Leinster-Cobbold-Reeve similarity-sensitive diversity, Vendi score)  
 - Deep learning
   
-But I also try to maintain a broad range of interest across physics, ranging from particle physics, cosmology to general relativity. 
+But I also try to maintain a broad range of interest across physics, ranging from particle physics, cosmology to general relativity and quantum computing !
 
 In addition, I actively develop and maintain open-source tools related to quantifying diversities.
 
