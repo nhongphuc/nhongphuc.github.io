@@ -23,7 +23,7 @@ repository               : "nhongphuc/nhongphuc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo.jpg"
   name             : "Phuc Nguyen"
   pronouns         : "he/him"  
   bio              : "I’m a data scientist and machine learning researcher with a strong foundation in theoretical physics."
