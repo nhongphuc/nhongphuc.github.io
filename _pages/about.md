@@ -20,10 +20,10 @@ My core technical expertise includes:
 
 - Python, numerical simulation, MCMC methods
 - Generative models, deep neural networks, probabilistic modeling
-- Building and publishing open-source Python packages (sentropy, lucie, GEM-T)
+- Building and publishing open-source Python packages (sentropy, lucie)
   
 I maintain a broad range of interests across physics, from particle physics and cosmology to general relativity and quantum computing. I actively develop and maintain open-source Python tools.
 
-I am currently seeking opportunities to contribute as a research scientist or postdoctoral fellow in quantum computing—particularly in roles where I can help shape QEC protocols, collaborate with experimental teams, and advance fault-tolerant quantum architectures.
+I am currently seeking opportunities to contribute as a research scientist or postdoctoral fellow in quantum computing and/or machine learning.
 
 Feel free to explore my publications, projects, and code, or reach out if you'd like to collaborate.
